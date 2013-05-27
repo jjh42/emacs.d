@@ -1,0 +1,3 @@
+[submodule "emacs-elixir"]
+	path = emacs-elixir
+	url = https://github.com/elixir-lang/emacs-elixir.git
