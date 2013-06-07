@@ -3,6 +3,9 @@
 ;; License under MIT license.
 ;; Submodules belong to others and may involve different licenses.
 
+;; No toolbar
+(tool-bar-mode -1)
+
 ;; No backup files to clutter things up.
 (setq make-backup-files nil) 
 
