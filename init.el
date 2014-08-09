@@ -21,8 +21,8 @@
 
 ;; Elixir-lang mode
 (add-to-list 'load-path "~/.emacs.d/emacs-elixir")
-(require 'elixir-mode-setup)
-(elixir-mode-setup)
+(require 'elixir-mode)
+
 
 ;; Editorconfig
 (add-to-list 'load-path "~/.emacs.d/editorconfig-emacs")
